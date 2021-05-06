@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619062502 source:c:\users\admin\onedrive\máy tính\game\memory_v.1.1\memory.1.2\code_memory.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1619061062 c:\users\admin\onedrive\máy tính\game\memory_v.1.1\memory.1.2\draw.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1619062502 source:c:\users\admin\onedrive\máy tính\game\memory_v.1.1\memory.1.2\draw.cpp
+	"draw.h"
+
